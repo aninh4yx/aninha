@@ -1,0 +1,8 @@
+h1{
+    height: 200px;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(red, yellow);
+} 
+h1{
+    text-align: center;
+  }
